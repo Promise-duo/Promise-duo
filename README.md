@@ -12,3 +12,5 @@
 </td>
 
 <td width="650" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=42&duration=3000&pause=900&color=ADC698&center=true&vCenter=true&width=600&lines= Hi+Smth+you+need+to+know+about+me%E2%9C%A6" />
