@@ -22,3 +22,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=45&duration=4000&pause=1000&color=705d67&center=true&vCenter=true&width=500&lines=-don't+ship+me+with.." />
 
 <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=45&duration=4000&pause=1000&color=503047&center=true&vCenter=true&width=500&lines=my+friends+unless+cat!" />
+<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=45&duration=4000&pause=1000&color=503047&center=true&vCenter=true&width=500&lines=btw+me+is+here!" />
+<img width="417" height="428" alt="Screenshot 2026-10-09 163852" src="https://github.com/user-attachments/assets/ac896065-f821-41e7-9e11-fcbc774e27d8" />
