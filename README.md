@@ -13,4 +13,5 @@
 
 <td width="650" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=45&duration=4000&pause=1000&color=adc698&center=true&vCenter=true&width=500&lines=Hi+and+my+boundary+was+here!!" />
+<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=45&duration=4000&pause=1000&color=adc698&center=true&vCenter=true&width=500&lines=Hi+and+my+boundary+is+here!!" />
+<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=45&duration=4000&pause=1000&color=adc698&center=true&vCenter=true&width=500&lines=-dni+if+you+is+a+proshipper+or+rareshipper" />
